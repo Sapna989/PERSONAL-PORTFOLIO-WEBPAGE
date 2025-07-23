@@ -16,5 +16,7 @@ This project is a personal portfolio website developed using only HTML and CSS, 
 
 <img width="1897" height="923" alt="Image" src="https://github.com/user-attachments/assets/ddf48d1b-c8c8-41d0-bcf9-353e12becfb1" />
 
+<img width="1868" height="916" alt="Image" src="https://github.com/user-attachments/assets/2c6a1af6-e6ad-4772-8953-dd39d072cb0c" />
+
 
 
